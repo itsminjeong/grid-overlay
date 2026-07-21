@@ -1,0 +1,22 @@
+GridOverlay Third-Party Notices
+===============================
+
+This application is packaged with the following third-party software.
+
+Python
+- License: Python Software Foundation License
+- https://docs.python.org/3/license.html
+
+PySide6 / Qt for Python
+- License options include LGPLv3/GPLv3 and commercial licensing.
+- https://doc.qt.io/qtforpython-6/licenses.html
+
+Qt
+- Open-source and commercial licensing information:
+- https://www.qt.io/licensing/open-source-lgpl-obligations
+
+PyInstaller
+- License: GPL with a special exception for distributing bundled applications.
+- https://pyinstaller.org/en/stable/license.html
+
+The bundled libraries remain subject to their respective licenses.

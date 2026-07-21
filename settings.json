@@ -1,0 +1,16 @@
+{
+  "spacing_x": 43.2,
+  "spacing_y": 20.7,
+  "offset_x": 0.0,
+  "offset_y": 0.0,
+  "line_color": "#aa00ff",
+  "line_opacity": 128,
+  "line_width": 1.0,
+  "major_enabled": true,
+  "major_every": 4,
+  "major_opacity": 235,
+  "major_width": 2.0,
+  "outside_opacity": 51,
+  "min_spacing": 4.0,
+  "max_spacing": 200.0
+}

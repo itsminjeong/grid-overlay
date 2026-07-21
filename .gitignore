@@ -1,0 +1,25 @@
+.venv/
+build/
+dist/
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.log
+*.zip
+*.spec
+*.tmp
+*.bak
+Thumbs.db
+.DS_Store
+
+# PyInstaller
+*.manifest
+*.spec
+
+# VS Code
+.vscode/
+
+# Windows
+ehthumbs.db
+Icon\r
